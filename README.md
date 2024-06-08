@@ -33,5 +33,7 @@ Welcome to the Rock Paper Scissors game! This is a simple, interactive game wher
    ```bash
    git clone https://github.com/omkar-janakwade/Rock_Paper_scissors.git
    cd Rock_Paper_scissors
-## Run the code 
-https://omkar-janakwade.github.io/Rock_Paper_scissors/indexg.html
+
+## Redirect To Web
+<a href="https://omkar-janakwade.github.io/Rock_Paper_scissors/indexg.html">Rock_Paper_scissors</a>
+
